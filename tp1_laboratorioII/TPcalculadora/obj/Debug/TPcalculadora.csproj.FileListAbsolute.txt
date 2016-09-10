@@ -1,0 +1,9 @@
+D:\visual studio 2012\tp1_laboratorioII\TPcalculadora\bin\Debug\TPcalculadora.exe.config
+D:\visual studio 2012\tp1_laboratorioII\TPcalculadora\bin\Debug\TPcalculadora.exe
+D:\visual studio 2012\tp1_laboratorioII\TPcalculadora\bin\Debug\TPcalculadora.pdb
+D:\visual studio 2012\tp1_laboratorioII\TPcalculadora\obj\Debug\TPcalculadora.csprojResolveAssemblyReference.cache
+D:\visual studio 2012\tp1_laboratorioII\TPcalculadora\obj\Debug\TPcalculadora.Form1.resources
+D:\visual studio 2012\tp1_laboratorioII\TPcalculadora\obj\Debug\TPcalculadora.Properties.Resources.resources
+D:\visual studio 2012\tp1_laboratorioII\TPcalculadora\obj\Debug\TPcalculadora.csproj.GenerateResource.Cache
+D:\visual studio 2012\tp1_laboratorioII\TPcalculadora\obj\Debug\TPcalculadora.exe
+D:\visual studio 2012\tp1_laboratorioII\TPcalculadora\obj\Debug\TPcalculadora.pdb
