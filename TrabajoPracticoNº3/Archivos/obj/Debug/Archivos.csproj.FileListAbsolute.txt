@@ -1,0 +1,8 @@
+G:\Segundo cuatrimestre\Ortiz progII\TrabajoPracticoNº3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+G:\Segundo cuatrimestre\Ortiz progII\TrabajoPracticoNº3\Archivos\bin\Debug\Archivos.exe.config
+G:\Segundo cuatrimestre\Ortiz progII\TrabajoPracticoNº3\Archivos\bin\Debug\Archivos.exe
+G:\Segundo cuatrimestre\Ortiz progII\TrabajoPracticoNº3\Archivos\bin\Debug\Archivos.pdb
+G:\Segundo cuatrimestre\Ortiz progII\TrabajoPracticoNº3\Archivos\bin\Debug\Excepciones.exe
+G:\Segundo cuatrimestre\Ortiz progII\TrabajoPracticoNº3\Archivos\bin\Debug\Excepciones.pdb
+G:\Segundo cuatrimestre\Ortiz progII\TrabajoPracticoNº3\Archivos\obj\Debug\Archivos.exe
+G:\Segundo cuatrimestre\Ortiz progII\TrabajoPracticoNº3\Archivos\obj\Debug\Archivos.pdb

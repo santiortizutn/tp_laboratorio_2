@@ -1,0 +1,8 @@
+G:\Segundo cuatrimestre\Ortiz progII\TrabajoPracticoNº3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csprojResolveAssemblyReference.cache
+G:\Segundo cuatrimestre\Ortiz progII\TrabajoPracticoNº3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.exe.config
+G:\Segundo cuatrimestre\Ortiz progII\TrabajoPracticoNº3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.exe
+G:\Segundo cuatrimestre\Ortiz progII\TrabajoPracticoNº3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.pdb
+G:\Segundo cuatrimestre\Ortiz progII\TrabajoPracticoNº3\EntidadesAbstractas\bin\Debug\Excepciones.exe
+G:\Segundo cuatrimestre\Ortiz progII\TrabajoPracticoNº3\EntidadesAbstractas\bin\Debug\Excepciones.pdb
+G:\Segundo cuatrimestre\Ortiz progII\TrabajoPracticoNº3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.exe
+G:\Segundo cuatrimestre\Ortiz progII\TrabajoPracticoNº3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.pdb
