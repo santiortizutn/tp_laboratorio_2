@@ -4,16 +4,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{5A3D1504-0F27-4781-9A0B-8EA296B44B90}</ProjectGuid>
-    <OutputType>Exe</OutputType>
+    <ProjectGuid>{6A301EA7-BE78-4CD4-9715-9D7E1C70B377}</ProjectGuid>
+    <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>EntidadesAbstractas</RootNamespace>
-    <AssemblyName>EntidadesAbstractas</AssemblyName>
+    <RootNamespace>EntidadesAbstractas_</RootNamespace>
+    <AssemblyName>EntidadesAbstractas_</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
-    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
@@ -23,7 +22,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
-    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
@@ -43,17 +41,12 @@
   <ItemGroup>
     <Compile Include="Persona.cs" />
     <Compile Include="PersonaGimnasio.cs" />
-    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
-    <None Include="ClassDiagram1.cd" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\Excepciones\Excepciones.csproj">
-      <Project>{bd6d93da-3d03-4f17-b61c-d7001731278f}</Project>
-      <Name>Excepciones</Name>
+    <ProjectReference Include="..\Excepciones_\Excepciones_.csproj">
+      <Project>{df4b8dab-680a-4fff-924f-395d7e8dd9ed}</Project>
+      <Name>Excepciones_</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

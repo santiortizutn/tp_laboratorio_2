@@ -1,0 +1,14 @@
+JORNADA
+CLASE DE Natacion POR ---DATOS DE LA PERSONA---
+Nombre y Apellido: Juan Lopez
+DNI: 12234456
+Nacionalidad: Argentino
+
+ID: 1
+
+Clases del dia :
+Natacion
+Natacion
+
+ALUMNOs:
+<-------------------------------------------------->

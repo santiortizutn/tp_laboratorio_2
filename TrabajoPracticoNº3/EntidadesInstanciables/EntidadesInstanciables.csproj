@@ -56,10 +56,6 @@
       <Project>{f3d2ffed-d5fa-4d26-9c58-936631007a42}</Project>
       <Name>Archivos</Name>
     </ProjectReference>
-    <ProjectReference Include="..\EntidadesAbstractas\EntidadesAbstractas.csproj">
-      <Project>{5a3d1504-0f27-4781-9a0b-8ea296b44b90}</Project>
-      <Name>EntidadesAbstractas</Name>
-    </ProjectReference>
     <ProjectReference Include="..\Excepciones\Excepciones.csproj">
       <Project>{bd6d93da-3d03-4f17-b61c-d7001731278f}</Project>
       <Name>Excepciones</Name>

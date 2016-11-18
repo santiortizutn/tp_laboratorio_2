@@ -1,0 +1,7 @@
+D:\GITHUB\Repositorio\tp_laboratorio_2\TrabajoPracticoNº3\Archivos_\bin\Debug\Archivos_.dll
+D:\GITHUB\Repositorio\tp_laboratorio_2\TrabajoPracticoNº3\Archivos_\bin\Debug\Archivos_.pdb
+D:\GITHUB\Repositorio\tp_laboratorio_2\TrabajoPracticoNº3\Archivos_\obj\Debug\Archivos_.csprojResolveAssemblyReference.cache
+D:\GITHUB\Repositorio\tp_laboratorio_2\TrabajoPracticoNº3\Archivos_\obj\Debug\Archivos_.dll
+D:\GITHUB\Repositorio\tp_laboratorio_2\TrabajoPracticoNº3\Archivos_\obj\Debug\Archivos_.pdb
+D:\GITHUB\Repositorio\tp_laboratorio_2\TrabajoPracticoNº3\Archivos_\bin\Debug\Excepciones_.dll
+D:\GITHUB\Repositorio\tp_laboratorio_2\TrabajoPracticoNº3\Archivos_\bin\Debug\Excepciones_.pdb

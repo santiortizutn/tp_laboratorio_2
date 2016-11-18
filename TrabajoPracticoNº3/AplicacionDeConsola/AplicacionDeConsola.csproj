@@ -49,17 +49,17 @@
     <None Include="ClassDiagram1.cd" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\EntidadesAbstractas\EntidadesAbstractas.csproj">
-      <Project>{5a3d1504-0f27-4781-9a0b-8ea296b44b90}</Project>
-      <Name>EntidadesAbstractas</Name>
+    <ProjectReference Include="..\EntidadesAbstractas_\EntidadesAbstractas_.csproj">
+      <Project>{6a301ea7-be78-4cd4-9715-9d7e1c70b377}</Project>
+      <Name>EntidadesAbstractas_</Name>
     </ProjectReference>
-    <ProjectReference Include="..\EntidadesInstanciables\EntidadesInstanciables.csproj">
-      <Project>{d48da4af-31ff-449c-8570-43a4f869a353}</Project>
-      <Name>EntidadesInstanciables</Name>
+    <ProjectReference Include="..\EntidadesInstanciables_\EntidadesInstanciables_.csproj">
+      <Project>{44d7e414-f55f-4266-9da9-81949b54e53e}</Project>
+      <Name>EntidadesInstanciables_</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Excepciones\Excepciones.csproj">
-      <Project>{bd6d93da-3d03-4f17-b61c-d7001731278f}</Project>
-      <Name>Excepciones</Name>
+    <ProjectReference Include="..\Excepciones_\Excepciones_.csproj">
+      <Project>{df4b8dab-680a-4fff-924f-395d7e8dd9ed}</Project>
+      <Name>Excepciones_</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

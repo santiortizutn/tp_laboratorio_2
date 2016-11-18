@@ -1,0 +1,4 @@
+D:\GITHUB\Repositorio\tp_laboratorio_2\TrabajoPracticoNº3\Excepciones_\bin\Debug\Excepciones_.dll
+D:\GITHUB\Repositorio\tp_laboratorio_2\TrabajoPracticoNº3\Excepciones_\bin\Debug\Excepciones_.pdb
+D:\GITHUB\Repositorio\tp_laboratorio_2\TrabajoPracticoNº3\Excepciones_\obj\Debug\Excepciones_.dll
+D:\GITHUB\Repositorio\tp_laboratorio_2\TrabajoPracticoNº3\Excepciones_\obj\Debug\Excepciones_.pdb

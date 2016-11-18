@@ -13,3 +13,17 @@ G:\Segundo cuatrimestre\Ortiz progII\TrabajoPracticoNº3\AplicacionDeConsola\bin
 G:\Segundo cuatrimestre\Ortiz progII\TrabajoPracticoNº3\AplicacionDeConsola\obj\Debug\AplicacionDeConsola.csprojResolveAssemblyReference.cache
 G:\Segundo cuatrimestre\Ortiz progII\TrabajoPracticoNº3\AplicacionDeConsola\obj\Debug\AplicacionDeConsola.exe
 G:\Segundo cuatrimestre\Ortiz progII\TrabajoPracticoNº3\AplicacionDeConsola\obj\Debug\AplicacionDeConsola.pdb
+D:\GITHUB\Repositorio\tp_laboratorio_2\TrabajoPracticoNº3\AplicacionDeConsola\bin\Debug\AplicacionDeConsola.exe.config
+D:\GITHUB\Repositorio\tp_laboratorio_2\TrabajoPracticoNº3\AplicacionDeConsola\obj\Debug\AplicacionDeConsola.exe
+D:\GITHUB\Repositorio\tp_laboratorio_2\TrabajoPracticoNº3\AplicacionDeConsola\obj\Debug\AplicacionDeConsola.pdb
+D:\GITHUB\Repositorio\tp_laboratorio_2\TrabajoPracticoNº3\AplicacionDeConsola\obj\Debug\AplicacionDeConsola.csprojResolveAssemblyReference.cache
+D:\GITHUB\Repositorio\tp_laboratorio_2\TrabajoPracticoNº3\AplicacionDeConsola\bin\Debug\AplicacionDeConsola.exe
+D:\GITHUB\Repositorio\tp_laboratorio_2\TrabajoPracticoNº3\AplicacionDeConsola\bin\Debug\AplicacionDeConsola.pdb
+D:\GITHUB\Repositorio\tp_laboratorio_2\TrabajoPracticoNº3\AplicacionDeConsola\bin\Debug\EntidadesAbstractas_.dll
+D:\GITHUB\Repositorio\tp_laboratorio_2\TrabajoPracticoNº3\AplicacionDeConsola\bin\Debug\EntidadesInstanciables_.dll
+D:\GITHUB\Repositorio\tp_laboratorio_2\TrabajoPracticoNº3\AplicacionDeConsola\bin\Debug\Excepciones_.dll
+D:\GITHUB\Repositorio\tp_laboratorio_2\TrabajoPracticoNº3\AplicacionDeConsola\bin\Debug\Archivos_.dll
+D:\GITHUB\Repositorio\tp_laboratorio_2\TrabajoPracticoNº3\AplicacionDeConsola\bin\Debug\EntidadesAbstractas_.pdb
+D:\GITHUB\Repositorio\tp_laboratorio_2\TrabajoPracticoNº3\AplicacionDeConsola\bin\Debug\EntidadesInstanciables_.pdb
+D:\GITHUB\Repositorio\tp_laboratorio_2\TrabajoPracticoNº3\AplicacionDeConsola\bin\Debug\Excepciones_.pdb
+D:\GITHUB\Repositorio\tp_laboratorio_2\TrabajoPracticoNº3\AplicacionDeConsola\bin\Debug\Archivos_.pdb
