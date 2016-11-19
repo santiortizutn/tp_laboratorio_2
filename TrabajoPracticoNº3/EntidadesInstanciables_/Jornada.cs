@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Excepciones;
+using Excepciones_;
 using Archivos;
 
-namespace EntidadesInstanciables
+namespace EntidadesInstanciables_
 {
     [Serializable]
     public class Jornada

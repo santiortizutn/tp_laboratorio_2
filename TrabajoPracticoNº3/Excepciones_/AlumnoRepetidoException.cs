@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Excepciones
+namespace Excepciones_
 {
     public class AlumnoRepetidoException:Exception
     {

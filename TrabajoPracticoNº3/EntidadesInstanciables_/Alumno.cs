@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using EntidadesAbstractas;
-using Excepciones;
+using EntidadesAbstractas_;
+using Excepciones_;
 
-namespace EntidadesInstanciables
+namespace EntidadesInstanciables_
 {
     [Serializable]
     public sealed class Alumno:PersonaGimnasio

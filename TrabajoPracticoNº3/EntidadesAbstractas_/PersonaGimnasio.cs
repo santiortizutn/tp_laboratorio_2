@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EntidadesAbstractas
+namespace EntidadesAbstractas_
 {
     [Serializable]
     public abstract class PersonaGimnasio:Persona

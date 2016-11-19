@@ -1,0 +1,13 @@
+D:\GITHUB\Repositorio\tp_laboratorio_2\TrabajoPracticoNº3\UnitTestTP3\bin\Debug\UnitTestTP3.dll
+D:\GITHUB\Repositorio\tp_laboratorio_2\TrabajoPracticoNº3\UnitTestTP3\bin\Debug\UnitTestTP3.pdb
+D:\GITHUB\Repositorio\tp_laboratorio_2\TrabajoPracticoNº3\UnitTestTP3\bin\Debug\EntidadesAbstractas_.dll
+D:\GITHUB\Repositorio\tp_laboratorio_2\TrabajoPracticoNº3\UnitTestTP3\bin\Debug\EntidadesInstanciables_.dll
+D:\GITHUB\Repositorio\tp_laboratorio_2\TrabajoPracticoNº3\UnitTestTP3\bin\Debug\Excepciones_.dll
+D:\GITHUB\Repositorio\tp_laboratorio_2\TrabajoPracticoNº3\UnitTestTP3\bin\Debug\Archivos_.dll
+D:\GITHUB\Repositorio\tp_laboratorio_2\TrabajoPracticoNº3\UnitTestTP3\bin\Debug\EntidadesAbstractas_.pdb
+D:\GITHUB\Repositorio\tp_laboratorio_2\TrabajoPracticoNº3\UnitTestTP3\bin\Debug\EntidadesInstanciables_.pdb
+D:\GITHUB\Repositorio\tp_laboratorio_2\TrabajoPracticoNº3\UnitTestTP3\bin\Debug\Excepciones_.pdb
+D:\GITHUB\Repositorio\tp_laboratorio_2\TrabajoPracticoNº3\UnitTestTP3\bin\Debug\Archivos_.pdb
+D:\GITHUB\Repositorio\tp_laboratorio_2\TrabajoPracticoNº3\UnitTestTP3\obj\Debug\UnitTestTP3.csprojResolveAssemblyReference.cache
+D:\GITHUB\Repositorio\tp_laboratorio_2\TrabajoPracticoNº3\UnitTestTP3\obj\Debug\UnitTestTP3.dll
+D:\GITHUB\Repositorio\tp_laboratorio_2\TrabajoPracticoNº3\UnitTestTP3\obj\Debug\UnitTestTP3.pdb

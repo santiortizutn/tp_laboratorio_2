@@ -3,12 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using EntidadesAbstractas;
-using Excepciones;
+using EntidadesAbstractas_;
+using Excepciones_;
 using System.Xml.Serialization;
 using Archivos;
 
-namespace EntidadesInstanciables
+namespace EntidadesInstanciables_
 {
 
     [XmlInclude(typeof(Jornada))]
@@ -117,10 +117,12 @@ namespace EntidadesInstanciables
 
         public static bool operator ==(Gimnasio gim, Alumno a)
         {
-            foreach (Alumno item in gim._alumnos)
+            for (int i = 0; i < gim._alumnos.Count; i++)
             {
-                if (gim._alumnos.Contains(a))
+                if (gim._alumnos[i] == a)
+                {
                     return true;
+                }
             }
 
             return false;
@@ -167,11 +169,12 @@ namespace EntidadesInstanciables
 
         public static Gimnasio operator +(Gimnasio gim, Alumno alu)
         {
-            if (gim != alu)
-                gim._alumnos.Add(alu);
-            return gim;
+            if (gim == alu)
+                throw new AlumnoRepetidoException();
 
-            throw new AlumnoRepetidoException();
+            gim._alumnos.Add(alu);
+            return gim;
+            
         }
 
         public static Gimnasio operator +(Gimnasio g, EClases clase)
