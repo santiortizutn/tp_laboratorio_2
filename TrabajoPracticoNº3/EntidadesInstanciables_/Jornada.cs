@@ -18,11 +18,19 @@ namespace EntidadesInstanciables_
 
         #region Constructores
 
+        /// <summary>
+        /// constructor por defecto que instancia la lista de alumnos.
+        /// </summary>
         private Jornada()
         {
             this._alumnos = new List<Alumno>();
         }
 
+        /// <summary>
+        /// instancia los atributos de la jornada, llamando al constructor por defecto.
+        /// </summary>
+        /// <param name="clase">clase</param>
+        /// <param name="instructor">instructor</param>
         public Jornada(Gimnasio.EClases clase, Instructor instructor)
             : this()
         {
@@ -34,6 +42,11 @@ namespace EntidadesInstanciables_
 
         #region Metodos
 
+        /// <summary>
+        /// guarda la jornada den un archivo de texto.
+        /// </summary>
+        /// <param name="jornada">jornada</param>
+        /// <returns></returns>
         public static bool Guardar(Jornada jornada)
         {
 
@@ -76,6 +89,12 @@ namespace EntidadesInstanciables_
 
         #region Sobrecargas
 
+        /// <summary>
+        /// compara el alumno con la lista en jornada
+        /// </summary>
+        /// <param name="j">jornada</param>
+        /// <param name="a">alumno</param>
+        /// <returns>retorna true si el alumno esta em la lista</returns>
         public static bool operator ==(Jornada j, Alumno a)
         {
             foreach (Alumno item in j._alumnos)
@@ -86,11 +105,24 @@ namespace EntidadesInstanciables_
             return false;
         }
 
+
+        /// <summary>
+        /// compara el alumno con la lista en jornada
+        /// </summary>
+        /// <param name="j">jornada</param>
+        /// <param name="a">alumno</param>
+        /// <returns>retorna true si el alumno NO esta em la lista</returns>
         public static bool operator !=(Jornada j, Alumno a)
         {
             return !(j == a);
         }
 
+        /// <summary>
+        /// agrega un alumno a la lista de la jornada si este no existe aun.
+        /// </summary>
+        /// <param name="j">jornada</param>
+        /// <param name="a">alumno</param>
+        /// <returns>retorna la jornada.</returns>
         public static Jornada operator +(Jornada j, Alumno a)
         {
             foreach (Alumno item in j._alumnos)

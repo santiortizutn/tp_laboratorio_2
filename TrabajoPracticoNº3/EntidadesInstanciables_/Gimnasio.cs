@@ -55,6 +55,9 @@ namespace EntidadesInstanciables_
 
         #region Constructores
 
+        /// <summary>
+        /// Constructor por defecrto que instancia las listas.
+        /// </summary>
         public Gimnasio()
         {
             this._alumnos = new List<Alumno>();
@@ -115,6 +118,12 @@ namespace EntidadesInstanciables_
 
         #region Sobrecargas
 
+        /// <summary>
+        /// Recorre la lista de alumnos del gimnasio y comparar con el alumno pasado por paramnetro.
+        /// </summary>
+        /// <param name="gim">Gimnasio</param>
+        /// <param name="a">alumno </param>
+        /// <returns> Retorna true si hay igualdad, false si no.</returns>
         public static bool operator ==(Gimnasio gim, Alumno a)
         {
             for (int i = 0; i < gim._alumnos.Count; i++)
@@ -128,11 +137,23 @@ namespace EntidadesInstanciables_
             return false;
         }
 
+        /// <summary>
+        /// Recorre la lista de alumnos del gimnasio y comparar con el alumno pasado por paramnetro.
+        /// </summary>
+        /// <param name="gim">Gimnasio</param>
+        /// <param name="a">Alumno</param>
+        /// <returns> Retorna true si NO hay igualdad, false si la hay. </returns>
         public static bool operator !=(Gimnasio gim, Alumno a)
         {
             return !(gim == a);
         }
 
+        /// <summary>
+        /// Recorre la lista de instructores del gimnasio y compara con la clase pasada por parametro.
+        /// </summary>
+        /// <param name="gim">Gimnasio.</param>
+        /// <param name="clase">Clase.</param>
+        /// <returns>Retorna el instructor si pertence a la clase pasada.</returns>
         public static Instructor operator ==(Gimnasio gim, EClases clase)
         {
             foreach (Instructor item in gim._instructores)
@@ -144,6 +165,12 @@ namespace EntidadesInstanciables_
             throw new SinInstructorException();
         }
 
+        /// <summary>
+        /// Recorre la lista de instructores del gimnasio y compara con la clase pasada por parametro.
+        /// </summary>
+        /// <param name="gim">Gimnasio.</param>
+        /// <param name="clase">Clase.</param>
+        /// <returns>Retorna el instructor si NO pertence a la clase pasada.</returns>
         public static Instructor operator !=(Gimnasio gim, EClases clase)
         {
             foreach (Instructor item in gim._instructores)
@@ -154,7 +181,12 @@ namespace EntidadesInstanciables_
             }
             return null;
         }
-
+        /// <summary>
+        /// Recorre la lista de instructores del gimnasio y compara con el instructor pasado por parametro.
+        /// </summary>
+        /// <param name="gim">Gimasio.</param>
+        /// <param name="i">Instructor.</param>
+        /// <returns>Retorna true si el instructor existe, false si no.</returns>
         public static bool operator ==(Gimnasio gim, Instructor i)
         {
             if (gim._instructores.Contains(i))
@@ -162,11 +194,24 @@ namespace EntidadesInstanciables_
             return false;
         }
 
+        /// <summary>
+        /// Recorre la lista de instructores del gimnasio y compara con el instructor pasado por parametro.
+        /// </summary>
+        /// <param name="gim">Gimasio.</param>
+        /// <param name="i">Instructor.</param>
+        /// <returns>Retorna true si el instructor NO existe, false si si.</returns>
         public static bool operator !=(Gimnasio gim, Instructor i)
         {
             return !(gim == i);
         }
 
+
+        /// <summary>
+        /// Agrega el alumno al gimnasio, si este no pertenece.
+        /// </summary>
+        /// <param name="gim">gimnasio.</param>
+        /// <param name="alu">alumno.</param>
+        /// <returns>reyorna el gimnasio.</returns>
         public static Gimnasio operator +(Gimnasio gim, Alumno alu)
         {
             if (gim == alu)
@@ -177,6 +222,12 @@ namespace EntidadesInstanciables_
             
         }
 
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="g"></param>
+        /// <param name="clase"></param>
+        /// <returns></returns>
         public static Gimnasio operator +(Gimnasio g, EClases clase)
         {
 
@@ -193,6 +244,12 @@ namespace EntidadesInstanciables_
             return g;
         }
 
+        /// <summary>
+        /// Agrega el instructor al gimnasio si este no pertenece aun.
+        /// </summary>
+        /// <param name="gim">gimnasio</param>
+        /// <param name="i">instructor</param>
+        /// <returns>retorna el gimnasio</returns>
         public static Gimnasio operator +(Gimnasio gim, Instructor i)
         {
             if (gim != i)
