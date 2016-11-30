@@ -1,0 +1,14 @@
+D:\GITHUB\Repositorio\tp_laboratorio_2\TrabajoPracticoNº3\EntidadesAbstractas_\bin\Debug\EntidadesAbstractas_.dll
+D:\GITHUB\Repositorio\tp_laboratorio_2\TrabajoPracticoNº3\EntidadesAbstractas_\bin\Debug\EntidadesAbstractas_.pdb
+D:\GITHUB\Repositorio\tp_laboratorio_2\TrabajoPracticoNº3\EntidadesAbstractas_\bin\Debug\Excepciones_.dll
+D:\GITHUB\Repositorio\tp_laboratorio_2\TrabajoPracticoNº3\EntidadesAbstractas_\bin\Debug\Excepciones_.pdb
+D:\GITHUB\Repositorio\tp_laboratorio_2\TrabajoPracticoNº3\EntidadesAbstractas_\obj\Debug\EntidadesAbstractas_.dll
+D:\GITHUB\Repositorio\tp_laboratorio_2\TrabajoPracticoNº3\EntidadesAbstractas_\obj\Debug\EntidadesAbstractas_.pdb
+D:\GITHUB\Repositorio\tp_laboratorio_2\TrabajoPracticoNº3\EntidadesAbstractas_\obj\Debug\EntidadesAbstractas_.csprojResolveAssemblyReference.cache
+D:\GITHUB\Repositorio\tp_laboratorio_2\RecuperatoriosTP\TP3\EntidadesAbstractas_\bin\Debug\EntidadesAbstractas_.dll
+D:\GITHUB\Repositorio\tp_laboratorio_2\RecuperatoriosTP\TP3\EntidadesAbstractas_\bin\Debug\EntidadesAbstractas_.pdb
+D:\GITHUB\Repositorio\tp_laboratorio_2\RecuperatoriosTP\TP3\EntidadesAbstractas_\bin\Debug\Excepciones_.dll
+D:\GITHUB\Repositorio\tp_laboratorio_2\RecuperatoriosTP\TP3\EntidadesAbstractas_\bin\Debug\Excepciones_.pdb
+D:\GITHUB\Repositorio\tp_laboratorio_2\RecuperatoriosTP\TP3\EntidadesAbstractas_\obj\Debug\EntidadesAbstractas_.csprojResolveAssemblyReference.cache
+D:\GITHUB\Repositorio\tp_laboratorio_2\RecuperatoriosTP\TP3\EntidadesAbstractas_\obj\Debug\EntidadesAbstractas_.dll
+D:\GITHUB\Repositorio\tp_laboratorio_2\RecuperatoriosTP\TP3\EntidadesAbstractas_\obj\Debug\EntidadesAbstractas_.pdb
