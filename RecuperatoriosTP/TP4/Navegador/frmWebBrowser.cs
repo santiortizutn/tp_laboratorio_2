@@ -132,12 +132,7 @@ namespace Navegador
         /// <param name="sender"></param>
         /// <param name="e"></param>
 
-        private void mostrarTodoElHistorialToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            frmHistorial historial;
-            historial = new frmHistorial();
-            historial.Show();
-        }
+        
 
         private void menuStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
         {
@@ -179,6 +174,18 @@ namespace Navegador
             {
                 this.archivos.guardar(this.txtUrl.Text);
             }
+        }
+
+        private void historialToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void mostrarTodoElHistorialToolStripMenuItem_Click_1(object sender, EventArgs e)
+        {
+            frmHistorial historial;
+            historial = new frmHistorial();
+            historial.Show();
         }
     }
 }
