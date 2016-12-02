@@ -122,23 +122,7 @@ namespace Navegador
 
         }
 
-        
-
-       
-
-        /// <summary>
-        /// Muestra el historial de webs visitadas
-        /// </summary>
-        /// <param name="sender"></param>
-        /// <param name="e"></param>
-
-        
-
-        private void menuStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
-        {
-
-        }
-
+     
         /// <summary>
         /// Descarga la web ingresada en formato html y guarda su URL en el archivo
         /// </summary>
@@ -181,6 +165,11 @@ namespace Navegador
 
         }
 
+        /// <summary>
+        /// Muestra el historial de webs visitadas
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void mostrarTodoElHistorialToolStripMenuItem_Click_1(object sender, EventArgs e)
         {
             frmHistorial historial;
