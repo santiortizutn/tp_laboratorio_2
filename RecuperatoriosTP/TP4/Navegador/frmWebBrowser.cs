@@ -131,9 +131,9 @@ namespace Navegador
 
         private void btnIr_Click_1(object sender, EventArgs e)
         {
-            if (!this.txtUrl.Text.Contains("https://"))
+            if (!this.txtUrl.Text.Contains("http://"))
             {
-                this.txtUrl.Text = this.txtUrl.Text.Insert(0, "https://");
+                this.txtUrl.Text = this.txtUrl.Text.Insert(0, "http://");
             }
 
             try
@@ -164,6 +164,9 @@ namespace Navegador
         {
 
         }
+
+        private void menuStrip1_ItemClicked(object sender, EventArgs e)
+        { }
 
         /// <summary>
         /// Muestra el historial de webs visitadas
